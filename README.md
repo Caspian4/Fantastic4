@@ -25,7 +25,7 @@ This repository demonstrates a **Neural Style Transfer** application built using
 
 ### 1. Clone the Repository  
 ```bash  
-gh repo clone Caspian4/Workshop/Style_transfer.ipynb
+gh repo clone Caspian4/Workshop
 ```
 ### 2. Install Dependencies
 
